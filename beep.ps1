@@ -1,3 +1,4 @@
+# https://qiita.com/mima_ita/items/ac33542ae3f2fb5c8778
 # http://web.archive.org/web/20190116021421/http://www.geocities.jp/shuinoue/myurobo/prog1.html
 function global:Snd([string]$key, [int]$duration=100)
 {
